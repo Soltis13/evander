@@ -4,7 +4,8 @@
 
 For prerequisites and detailed instructions please read the
 [Installation Instructions]()on the Wiki.    
-[Heroku Hosted Webstie](https://supahpapalicious.herokuapp.com/)
+[Heroku Hosted Webstie](https://evander.herokuapp.com/)   
+[Class Pressentation](https://docs.google.com/presentation/d/1JLiC8VEfI3IFGhRsLuWTv02OTJz4YJ49OUs85WG9qa8/edit#slide=id.g411324a08c_0_13/)   
 
 
 ## Introduction    
@@ -42,7 +43,6 @@ Human-centered design is motivated by creating solutions for problems and opport
 
 Further Design decisions and processes can be found in the wiki page Design.   
 
-[Class Presentation](https://docs.google.com/presentation/d/1WETBjyobB8XooJm79EN3AJS7i6SV9ySYxDjj7TuhLko/edit?usp=sharing)
 
 
 ## License   
